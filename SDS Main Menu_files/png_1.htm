@@ -1,0 +1,177 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="visio.css"/>
+<title>
+SDS Main Menu
+</title>
+<script type="text/javascript" language="javascript">
+function UpdateTooltip(){};
+function OnShapeClick(){};
+</script>
+
+<script src="png_1.js" type="text/javascript" language="javascript"></script>
+
+
+<script type="text/javascript" language="javascript">
+var pageID = 0;
+var isUpLevel = parent.isUpLevel;
+var OnShapeClick = null;
+if (!parent.isMac)
+{
+	OnShapeClick = parent.OnShapeClick;
+}
+
+var OnShapeKey = parent.OnShapeKey;
+var UpdateTooltip = parent.UpdateTooltip;
+var clickMenu = parent.clickMenu;
+var toggleMenuDiv = parent.toggleMenuDiv;
+var toggleMenuLink = parent.toggleMenuLink;
+var GoToPage = parent.GoToPage;
+
+
+if (parent.isUpLevel)
+{
+
+	if (parent.g_FirstPageToLoad != null && parent.g_FirstPageToLoad.length > 0)
+	{
+		if (parent.g_FileList[parent.g_CurPageIndex].PageID != pageID)
+		{
+			var fileEntry = parent.g_FileList[parent.g_CurPageIndex];
+			var fileToLoad = fileToLoad = fileEntry.PriImage;
+			if (fileEntry.SecImage.length > 0)
+			{
+				fileToLoad = fileEntry.SecImage;
+			}
+
+			location.replace(fileToLoad);
+		}
+
+		parent.g_FirstPageToLoad = null;
+	}
+
+
+	var viewMgr = new parent.CViewMgr();
+	parent.viewMgr = viewMgr;
+
+	viewMgr.SupportsDetails = true;
+	viewMgr.SupportsSearch = true;
+
+	viewMgr.put_Location = ViewMgrSetRasterLocation;
+	viewMgr.visBBoxLeft = 0.233028;
+	viewMgr.visBBoxRight = 13.815153;
+	viewMgr.visBBoxBottom = 0.281484;
+	viewMgr.visBBoxTop = 6.843544;
+	viewMgr.highlightDiv = null;
+}
+
+function load ()
+{
+	if(isUpLevel)
+	{
+		arrowdiv.innerHTML = '<img id="arrowgif" alt="Shows the location of the selected shape" src="arrow.gif"/>';
+
+		var pageIndex = parent.PageIndexFromID (pageID);
+		parent.CurPageUpdate (pageIndex);
+	}
+}
+
+function unload()
+{
+	if(isUpLevel)
+	{
+		viewMgr = null;
+		parent.viewMgr = null;
+	}
+}
+
+window.onload = load;
+window.onunload = unload;
+document.onclick = clickMenu;
+
+</script>
+<style type="text/css"> 
+body {
+	background:url(foo) fixed;
+	padding: 10px;
+}
+div.banner {
+	position: fixed;
+	_position: absolute;
+	top: 0;
+	left: 0;
+	_top: expression(eval(document.body.scrollTop));
+	_left: expression(eval(document.body.scrollLeft));
+	width: 100%;
+	_width: expression(eval(document.body.clientWidth));
+	margin: 0;
+	padding: 3px;
+	padding-left: 6px;
+	background:lime;
+	background-color: #FFFFC6;
+	font: 11px tahoma,arial,serif;
+	border-bottom: 2px ridge #FFFFC6;
+}
+</style>
+</head>
+
+<body class="pageView" bgcolor="#FFFFFF" style="margin: 0px">
+
+
+
+<div id="arrowdiv" style="position:absolute;top:0;left:0;visibility:hidden;z-index:5">
+</div>
+
+<div id="menu1" onclick="clickMenu()" class="hlMenu">
+</div>
+<DIV id="RasterDiv" style="margin:10px">
+
+<center>
+  <IMG id="ConvertedImage" SRC="png_1.png" ALT="Page-1" name=RasterImage BORDER="0" USEMAP="#visImageMap">
+</center>
+
+<MAP NAME="visImageMap">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="file://Spiderman/departments/SDS/01.Admin/2.%20PPT%20-%20Performance%20Initiatives" target="_top" COORDS="468,289,577,289,580,288,584,286,586,284,588,280,589,277,589,212,588,208,586,205,584,202,580,201,577,200,468,200,464,201,461,202,458,205,456,208,456,212,456,277,456,280,458,284,461,286,464,288,468,289" onmouseover="UpdateTooltip(this,0,157,event)" onfocus="UpdateTooltip(this,0,157,event)" onclick="return OnShapeClick(0,157,event);" onkeyup="OnShapeKey(0,157,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://iboost.digit-ts.io/login" target="_top" COORDS="182,289,291,289,294,288,298,286,300,284,302,280,303,277,303,212,302,208,300,205,298,202,294,201,291,200,182,200,178,201,175,202,172,205,170,208,170,212,170,277,170,280,172,284,175,286,178,288,182,289" onmouseover="UpdateTooltip(this,0,156,event)" onfocus="UpdateTooltip(this,0,156,event)" onclick="return OnShapeClick(0,156,event);" onkeyup="OnShapeKey(0,156,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://ecm.corp.thales/Livelink/livelink.exe?func=ll&#38;objId=103906389&#38;objAction=browse&#38;sort=name" target="_top" COORDS="745,160,873,160,873,132,745,132,745,160" onmouseover="UpdateTooltip(this,0,130,event)" onfocus="UpdateTooltip(this,0,130,event)" onclick="return OnShapeClick(0,130,event);" onkeyup="OnShapeKey(0,130,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://ecm.corp.thales/Livelink/livelink.exe?func=ll&#38;objId=103906389&#38;objAction=browse&#38;sort=name" target="_top" COORDS="754,189,863,189,867,189,870,187,873,184,874,181,875,177,875,112,874,109,873,105,870,103,867,101,863,100,754,100,750,101,747,103,744,105,742,109,742,112,742,177,742,181,744,184,747,187,750,189,754,189" onmouseover="UpdateTooltip(this,0,19,event)" onfocus="UpdateTooltip(this,0,19,event)" onclick="return OnShapeClick(0,19,event);" onkeyup="OnShapeKey(0,19,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://www.concursolutions.com/home.asp" target="_top" COORDS="179,480,290,480,290,404,179,404,179,480" onmouseover="UpdateTooltip(this,0,125,event)" onfocus="UpdateTooltip(this,0,125,event)" onclick="return OnShapeClick(0,125,event);" onkeyup="OnShapeKey(0,125,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://www.concursolutions.com/home.asp" target="_top" COORDS="182,487,291,487,294,487,298,485,300,483,302,479,303,476,303,411,302,407,300,404,298,401,294,399,291,399,182,399,178,399,175,401,172,404,170,407,170,411,170,476,170,479,172,483,175,485,178,487,182,487" onmouseover="UpdateTooltip(this,0,11,event)" onfocus="UpdateTooltip(this,0,11,event)" onclick="return OnShapeClick(0,11,event);" onkeyup="OnShapeKey(0,11,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://chorus2.corp.thales/group/guest/my-favorites#" target="_top" COORDS="172,62,300,62,300,29,172,29,172,62" onmouseover="UpdateTooltip(this,0,32,event)" onfocus="UpdateTooltip(this,0,32,event)" onclick="return OnShapeClick(0,32,event);" onkeyup="OnShapeKey(0,32,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://chorus2.corp.thales/group/guest/my-favorites#" target="_top" COORDS="182,90,291,90,294,89,298,87,300,85,302,81,303,78,303,13,302,9,300,6,298,3,294,2,291,1,182,1,178,2,175,3,172,6,170,9,170,13,170,78,170,81,172,85,175,87,178,89,182,90" onmouseover="UpdateTooltip(this,0,3,event)" onfocus="UpdateTooltip(this,0,3,event)" onclick="return OnShapeClick(0,3,event);" onkeyup="OnShapeKey(0,3,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.ecom.corp.thales/www/thales_engineering/MLS/practices.html" target="_top" COORDS="325,90,434,90,437,89,441,87,443,85,445,81,446,78,446,13,445,9,443,6,441,3,437,2,434,1,325,1,321,2,318,3,315,6,313,9,313,13,313,78,313,81,315,85,318,87,321,89,325,90" onmouseover="UpdateTooltip(this,0,146,event)" onfocus="UpdateTooltip(this,0,146,event)" onclick="return OnShapeClick(0,146,event);" onkeyup="OnShapeKey(0,146,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="file://Spiderman/departments/SDS/04.DSMO/Operations%20-%20Project%20Files/Dashboards/" target="_top" COORDS="38,289,148,289,151,288,155,286,157,284,159,280,159,277,159,212,159,208,157,205,155,202,151,201,148,200,38,200,35,201,31,202,29,205,27,208,27,212,27,277,27,280,29,284,31,286,35,288,38,289" onmouseover="UpdateTooltip(this,0,144,event)" onfocus="UpdateTooltip(this,0,144,event)" onclick="return OnShapeClick(0,144,event);" onkeyup="OnShapeKey(0,144,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://sharedpalma.corp.thales:1443/Windchill/app/" target="_top" COORDS="897,90,1006,90,1010,89,1013,87,1016,85,1017,81,1018,78,1018,13,1017,9,1016,6,1013,3,1010,2,1006,1,897,1,893,2,890,3,887,6,885,9,885,13,885,78,885,81,887,85,890,87,893,89,897,90" onmouseover="UpdateTooltip(this,0,142,event)" onfocus="UpdateTooltip(this,0,142,event)" onclick="return OnShapeClick(0,142,event);" onkeyup="OnShapeKey(0,142,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://lion.online.corp.thales/collections/1" target="_top" COORDS="38,90,148,90,151,89,155,87,157,85,159,81,159,78,159,13,159,9,157,6,155,3,151,2,148,1,38,1,35,2,31,3,29,6,27,9,27,13,27,78,27,81,29,85,31,87,35,89,38,90" onmouseover="UpdateTooltip(this,0,136,event)" onfocus="UpdateTooltip(this,0,136,event)" onclick="return OnShapeClick(0,136,event);" onkeyup="OnShapeKey(0,136,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://sdsthales.com/" target="_top" COORDS="611,388,720,388,724,387,727,386,729,383,731,380,732,376,732,311,731,308,729,304,727,302,724,300,720,299,611,299,607,300,604,302,601,304,599,308,599,311,599,376,599,380,601,383,604,386,607,387,611,388" onmouseover="UpdateTooltip(this,0,122,event)" onfocus="UpdateTooltip(this,0,122,event)" onclick="return OnShapeClick(0,122,event);" onkeyup="OnShapeKey(0,122,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://e2-jira.resource.ca.corp.thales:8443/secure/BrowseProjects.jspa?selectedCategory=10500&#38;selectedProjectType=all" target="_top" COORDS="611,90,720,90,724,89,727,87,729,85,731,81,732,78,732,13,731,9,729,6,727,3,724,2,720,1,611,1,607,2,604,3,601,6,599,9,599,13,599,78,599,81,601,85,604,87,607,89,611,90" onmouseover="UpdateTooltip(this,0,6,event)" onfocus="UpdateTooltip(this,0,6,event)" onclick="return OnShapeClick(0,6,event);" onkeyup="OnShapeKey(0,6,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="file://spiderman/Projects/Department/Project%20Review%20Dashboards" target="_top" COORDS="897,289,1006,289,1010,288,1013,286,1016,284,1017,280,1018,277,1018,212,1017,208,1016,205,1013,202,1010,201,1006,200,897,200,893,201,890,202,887,205,885,208,885,212,885,277,885,280,887,284,890,286,893,288,897,289" onmouseover="UpdateTooltip(this,0,99,event)" onfocus="UpdateTooltip(this,0,99,event)" onclick="return OnShapeClick(0,99,event);" onkeyup="OnShapeKey(0,99,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://www.sunlife.ca/" target="_top" COORDS="611,487,720,487,724,487,727,485,729,483,731,479,732,476,732,411,731,407,729,404,727,401,724,399,720,399,611,399,607,399,604,401,601,404,599,407,599,411,599,476,599,479,601,483,604,485,607,487,611,487" onmouseover="UpdateTooltip(this,0,36,event)" onfocus="UpdateTooltip(this,0,36,event)" onclick="return OnShapeClick(0,36,event);" onkeyup="OnShapeKey(0,36,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://sante.plexo.ca/HealthPortal/th/MDS/Account/LogOn" target="_top" COORDS="468,487,577,487,580,487,584,485,586,483,588,479,589,476,589,411,588,407,586,404,584,401,580,399,577,399,468,399,464,399,461,401,458,404,456,407,456,411,456,476,456,479,458,483,461,485,464,487,468,487" onmouseover="UpdateTooltip(this,0,4,event)" onfocus="UpdateTooltip(this,0,4,event)" onclick="return OnShapeClick(0,4,event);" onkeyup="OnShapeKey(0,4,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://global.americanexpress.com/myca/logon/canlac/action?request_type=LogonHandler&#38;DestPage=https%3A%2F%2Fglobal.americanexpress.com%2Fmyca%2Fintl%2Festatement%2Fcanlac%2Fstatement.do%3Frequest_type%3D%26Face%3Den_CA%26BPIndex%3D0%26sorted_index%3D0&#38;Fac" target="_top" COORDS="325,487,434,487,437,487,441,485,443,483,445,479,446,476,446,411,445,407,443,404,441,401,437,399,434,399,325,399,321,399,318,401,315,404,313,407,313,411,313,476,313,479,315,483,318,485,321,487,325,487" onmouseover="UpdateTooltip(this,0,21,event)" onfocus="UpdateTooltip(this,0,21,event)" onclick="return OnShapeClick(0,21,event);" onkeyup="OnShapeKey(0,21,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://exchanger.intranet.thalesgroup.com/zephyr/WebApp.jsp#tab-MESSAGES" target="_top" COORDS="38,189,148,189,151,189,155,187,157,184,159,181,159,177,159,112,159,109,157,105,155,103,151,101,148,100,38,100,35,101,31,103,29,105,27,109,27,112,27,177,27,181,29,184,31,187,35,189,38,189" onmouseover="UpdateTooltip(this,0,8,event)" onfocus="UpdateTooltip(this,0,8,event)" onclick="return OnShapeClick(0,8,event);" onkeyup="OnShapeKey(0,8,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.peopleonline.corp.thales/canada_transportation_services/pub/floorplans.cfm?slidid=1&#38;idd=106042&#38;intralang=en" target="_top" COORDS="897,487,1006,487,1010,487,1013,485,1016,483,1017,479,1018,476,1018,411,1017,407,1016,404,1013,401,1010,399,1006,399,897,399,893,399,890,401,887,404,885,407,885,411,885,476,885,479,887,483,890,485,893,487,897,487" onmouseover="UpdateTooltip(this,0,105,event)" onfocus="UpdateTooltip(this,0,105,event)" onclick="return OnShapeClick(0,105,event);" onkeyup="OnShapeKey(0,105,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.peopleonline.corp.thales/canada_transportation_tools/pub/doors.cfm" target="_top" COORDS="897,388,1006,388,1010,387,1013,386,1016,383,1017,380,1018,376,1018,311,1017,308,1016,304,1013,302,1010,300,1006,299,897,299,893,300,890,302,887,304,885,308,885,311,885,376,885,380,887,383,890,386,893,387,897,388" onmouseover="UpdateTooltip(this,0,102,event)" onfocus="UpdateTooltip(this,0,102,event)" onclick="return OnShapeClick(0,102,event);" onkeyup="OnShapeKey(0,102,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://coccinelle.corp.thales/DNVRT/Probasis/index.php" target="_top" COORDS="897,189,1006,189,1010,189,1013,187,1016,184,1017,181,1018,177,1018,112,1017,109,1016,105,1013,103,1010,101,1006,100,897,100,893,101,890,103,887,105,885,109,885,112,885,177,885,181,887,184,890,187,893,189,897,189" onmouseover="UpdateTooltip(this,0,96,event)" onfocus="UpdateTooltip(this,0,96,event)" onclick="return OnShapeClick(0,96,event);" onkeyup="OnShapeKey(0,96,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://websso.online.thalesgroup.com/login/websso_login.pl?skin=elearning&#38;TYPE=16777344&#38;REALM=-SM-elearningtu%20[15%3a28%3a31%3a140393890976110]&#38;SMAUTHREASON=0&#38;METHOD=GET&#38;SMAGENTNAME=-SM-b4PH3AsmHWVQO265SOyLD8sVyLYk8Y6f1lYS1zpQkABi%2b0L%2fn5xe2ipzwBW5nFCa" target="_top" COORDS="754,388,863,388,867,387,870,386,873,383,874,380,875,376,875,311,874,308,873,304,870,302,867,300,863,299,754,299,750,300,747,302,744,304,742,308,742,311,742,376,742,380,744,383,747,386,750,387,754,388" onmouseover="UpdateTooltip(this,0,93,event)" onfocus="UpdateTooltip(this,0,93,event)" onclick="return OnShapeClick(0,93,event);" onkeyup="OnShapeKey(0,93,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://wd3.myworkday.com/thales/d/home.htmld#%253Bthales%253Bhome.htmld" target="_top" COORDS="38,388,148,388,151,387,155,386,157,383,159,380,159,376,159,311,159,308,157,304,155,302,151,300,148,299,38,299,35,300,31,302,29,304,27,308,27,311,27,376,27,380,29,383,31,386,35,387,38,388" onmouseover="UpdateTooltip(this,0,20,event)" onfocus="UpdateTooltip(this,0,20,event)" onclick="return OnShapeClick(0,20,event);" onkeyup="OnShapeKey(0,20,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.peopleonline.corp.thales/canada_transportation/pub/orgcharts.cfm" target="_top" COORDS="182,388,291,388,294,387,298,386,300,383,302,380,303,376,303,311,302,308,300,304,298,302,294,300,291,299,182,299,178,300,175,302,172,304,170,308,170,311,170,376,170,380,172,383,175,386,178,387,182,388" onmouseover="UpdateTooltip(this,0,27,event)" onfocus="UpdateTooltip(this,0,27,event)" onclick="return OnShapeClick(0,27,event);" onkeyup="OnShapeKey(0,27,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://servicedesk.resource.ca.corp.thales/HomePage.do?SkipNV2Filter=true" target="_top" COORDS="38,487,148,487,151,487,155,485,157,483,159,479,159,476,159,411,159,407,157,404,155,401,151,399,148,399,38,399,35,399,31,401,29,404,27,407,27,411,27,476,27,479,29,483,31,485,35,487,38,487" onmouseover="UpdateTooltip(this,0,10,event)" onfocus="UpdateTooltip(this,0,10,event)" onclick="return OnShapeClick(0,10,event);" onkeyup="OnShapeKey(0,10,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&#38;objId=1396590&#38;objAction=browse&#38;viewType=1" target="_top" COORDS="468,189,577,189,580,189,584,187,586,184,588,181,589,177,589,112,588,109,586,105,584,103,580,101,577,100,468,100,464,101,461,103,458,105,456,109,456,112,456,177,456,181,458,184,461,187,464,189,468,189" onmouseover="UpdateTooltip(this,0,1,event)" onfocus="UpdateTooltip(this,0,1,event)" onclick="return OnShapeClick(0,1,event);" onkeyup="OnShapeKey(0,1,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&#38;objId=754132&#38;objAction=browse&#38;viewType=1" target="_top" COORDS="611,189,720,189,724,189,727,187,729,184,731,181,732,177,732,112,731,109,729,105,727,103,724,101,720,100,611,100,607,101,604,103,601,105,599,109,599,112,599,177,599,181,601,184,604,187,607,189,611,189" onmouseover="UpdateTooltip(this,0,7,event)" onfocus="UpdateTooltip(this,0,7,event)" onclick="return OnShapeClick(0,7,event);" onkeyup="OnShapeKey(0,7,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://cdms.tas-can.com/livelink/livelink.exe?func=ll&#38;objId=50631&#38;objAction=browse&#38;sort=name" target="_top" COORDS="325,189,434,189,437,189,441,187,443,184,445,181,446,177,446,112,445,109,443,105,441,103,437,101,434,100,325,100,321,101,318,103,315,105,313,109,313,112,313,177,313,181,315,184,318,187,321,189,325,189" onmouseover="UpdateTooltip(this,0,28,event)" onfocus="UpdateTooltip(this,0,28,event)" onclick="return OnShapeClick(0,28,event);" onkeyup="OnShapeKey(0,28,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.peopleonline.corp.thales/canada_transportation_departments/pub/timesheets.cfm?slidid=1&#38;idd=106099&#38;intralang=en" target="_top" COORDS="325,289,434,289,437,288,441,286,443,284,445,280,446,277,446,212,445,208,443,205,441,202,437,201,434,200,325,200,321,201,318,202,315,205,313,208,313,212,313,277,313,280,315,284,318,286,321,288,325,289" onmouseover="UpdateTooltip(this,0,23,event)" onfocus="UpdateTooltip(this,0,23,event)" onclick="return OnShapeClick(0,23,event);" onkeyup="OnShapeKey(0,23,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="file://spiderman/projects" target="_top" COORDS="754,289,863,289,867,288,870,286,873,284,874,280,875,277,875,212,874,208,873,205,870,202,867,201,863,200,754,200,750,201,747,202,744,205,742,208,742,212,742,277,742,280,744,284,747,286,750,288,754,289" onmouseover="UpdateTooltip(this,0,17,event)" onfocus="UpdateTooltip(this,0,17,event)" onclick="return OnShapeClick(0,17,event);" onkeyup="OnShapeKey(0,17,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="file://spiderman/departments/Hardware_Engineering/Group_-_%20Project_Schedules/Data" target="_top" COORDS="611,289,720,289,724,288,727,286,729,284,731,280,732,277,732,212,731,208,729,205,727,202,724,201,720,200,611,200,607,201,604,202,601,205,599,208,599,212,599,277,599,280,601,284,604,286,607,288,611,289" onmouseover="UpdateTooltip(this,0,16,event)" onfocus="UpdateTooltip(this,0,16,event)" onclick="return OnShapeClick(0,16,event);" onkeyup="OnShapeKey(0,16,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&#38;objId=5772623&#38;objAction=browse&#38;viewType=1&#38;func=ll&#38;objId=5772623&#38;objAction=browse&#38;viewType=1" target="_top" COORDS="468,388,577,388,580,387,584,386,586,383,588,380,589,376,589,311,588,308,586,304,584,302,580,300,577,299,468,299,464,300,461,302,458,304,456,308,456,311,456,376,456,380,458,383,461,386,464,387,468,388" onmouseover="UpdateTooltip(this,0,15,event)" onfocus="UpdateTooltip(this,0,15,event)" onclick="return OnShapeClick(0,15,event);" onkeyup="OnShapeKey(0,15,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://chorus2.corp.thales/group/guest/roles" target="_top" COORDS="325,388,434,388,437,387,441,386,443,383,445,380,446,376,446,311,445,308,443,304,441,302,437,300,434,299,325,299,321,300,318,302,315,304,313,308,313,311,313,376,313,380,315,383,318,386,321,387,325,388" onmouseover="UpdateTooltip(this,0,14,event)" onfocus="UpdateTooltip(this,0,14,event)" onclick="return OnShapeClick(0,14,event);" onkeyup="OnShapeKey(0,14,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://portal.sap.tas-can.com/irj/portal" target="_top" COORDS="754,90,863,90,867,89,870,87,873,85,874,81,875,78,875,13,874,9,873,6,870,3,867,2,863,1,754,1,750,2,747,3,744,6,742,9,742,13,742,78,742,81,744,85,747,87,750,89,754,90" onmouseover="UpdateTooltip(this,0,9,event)" onfocus="UpdateTooltip(this,0,9,event)" onclick="return OnShapeClick(0,9,event);" onkeyup="OnShapeKey(0,9,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://wiki.ta1.tas-can.com/wiki/index.php/Main_Page" target="_top" COORDS="754,487,863,487,867,487,870,485,873,483,874,479,875,476,875,411,874,407,873,404,870,401,867,399,863,399,754,399,750,399,747,401,744,404,742,407,742,411,742,476,742,479,744,483,747,485,750,487,754,487" onmouseover="UpdateTooltip(this,0,12,event)" onfocus="UpdateTooltip(this,0,12,event)" onclick="return OnShapeClick(0,12,event);" onkeyup="OnShapeKey(0,12,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="http://intranet.peopleonline.corp.thales/portal/countries/canada/transportation/" target="_top" COORDS="182,189,291,189,294,189,298,187,300,184,302,181,303,177,303,112,302,109,300,105,298,103,294,101,291,100,182,100,178,101,175,103,172,105,170,109,170,112,170,177,170,181,172,184,175,187,178,189,182,189" onmouseover="UpdateTooltip(this,0,26,event)" onfocus="UpdateTooltip(this,0,26,event)" onclick="return OnShapeClick(0,26,event);" onkeyup="OnShapeKey(0,26,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="" origTitle="" TITLE="" HREF="https://cq.tas-can.com/cqweb/" target="_top" COORDS="468,90,577,90,580,89,584,87,586,85,588,81,589,78,589,13,588,9,586,6,584,3,580,2,577,1,468,1,464,2,461,3,458,6,456,9,456,13,456,78,456,81,458,85,461,87,464,89,468,90" onmouseover="UpdateTooltip(this,0,25,event)" onfocus="UpdateTooltip(this,0,25,event)" onclick="return OnShapeClick(0,25,event);" onkeyup="OnShapeKey(0,25,event);">
+</MAP>
+
+
+</DIV>
+</body>
+</html>

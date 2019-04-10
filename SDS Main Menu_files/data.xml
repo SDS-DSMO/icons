@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title>Hardware Common Links</Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="114" UniqueID="{8C109547-DB97-42F1-A241-95B3D0B4CE97}" Name="Sheet.114" NameU="Sheet.114">
+					<Text>HR TOOLS</Text>
+					<XForm>
+						<PinX Unit="MM">0.376736111111110</PinX>
+						<PinY Unit="MM">2.280569957886592</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="113" UniqueID="{175074FE-FAA6-4DF7-AF9D-78123BE50F19}" Name="Sheet.113" NameU="Sheet.113">
+					<Text>FOLDERS &amp; LINKS</Text>
+					<XForm>
+						<PinX Unit="MM">0.364173228346457</PinX>
+						<PinY Unit="MM">4.914428225603133</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="112" UniqueID="{BDD94858-137F-4634-BA87-3CD634356EA1}" Name="Sheet.112" NameU="Sheet.112">
+					<Text>PROJECT TOOLS</Text>
+					<XForm>
+						<PinX Unit="MM">7.025125765529311</PinX>
+						<PinY Unit="MM">3.599467595681894</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="109" UniqueID="{2D34BF1E-AD05-4E76-8A57-277EB93FF8EC}" Name="Sheet.109" NameU="Sheet.109">
+					<Text>SUPPORTING TOOLS</Text>
+					<XForm>
+						<PinX Unit="MM">7.025125765529311</PinX>
+						<PinY Unit="MM">0.947296680605602</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="110" UniqueID="{630AE622-07F1-40A0-A869-09187AB5659A}" Name="Sheet.110" NameU="Sheet.110">
+					<Text>TOOLS &amp; PRACTICES</Text>
+					<XForm>
+						<PinX Unit="MM">7.004571104999587</PinX>
+						<PinY Unit="MM">6.256351798715839</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{C8B686C2-B840-4E46-9026-7B758FCD65D3}" Name="Sheet.62" NameU="Sheet.62">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="66" UniqueID="{0A1B7FBF-A530-4637-8D87-165A5BBF5025}" Name="Sheet.66" NameU="Sheet.66">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="25" UniqueID="{74E7B6B4-8C2A-43BE-B08C-A50A1F8AD056}" Name="Rectangle.25" NameU="Rectangle.25" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://cq.tas-can.com/cqweb/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://cq.tas-can.com/cqweb/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="67" UniqueID="{A3C44BC2-5DEE-4D67-9FA6-8BA6FDF03A7A}" Name="Sheet.67" NameU="Sheet.67">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{06E00B97-B74C-4BB3-B220-CA743BF0A7EF}" Name="Rectangle.26" NameU="Rectangle.26" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://intranet.peopleonline.corp.thales/portal/countries/canada/transportation/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.peopleonline.corp.thales/portal/countries/canada/transportation/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="68" UniqueID="{4A280ECA-129B-4D89-94E6-FC19D1C96AC9}" Name="Sheet.68" NameU="Sheet.68">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{B8C2247A-AF70-46B2-9256-FE80DB0621D7}" Name="Rectangle.12" NameU="Rectangle.12" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://wiki.ta1.tas-can.com/wiki/index.php/Main_Page</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://wiki.ta1.tas-can.com/wiki/index.php/Main_Page</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="71" UniqueID="{FF1DD35B-49FC-47C0-923A-4997F2D68999}" Name="Sheet.71" NameU="Sheet.71">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{ECFD1A46-88BF-4264-B7D6-77BD2B4793B4}" Name="Rectangle.9" NameU="Rectangle.9" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://portal.sap.tas-can.com/irj/portal</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://portal.sap.tas-can.com/irj/portal</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="74" UniqueID="{F53FF393-0F9A-49AB-9F27-5D367BD3932C}" Name="Sheet.74" NameU="Sheet.74">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{D1A8B529-D59E-40CC-A2A5-88A266CC0FB7}" Name="Rectangle.14" NameU="Rectangle.14" Master="2">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://chorus2.corp.thales/group/guest/roles</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://chorus2.corp.thales/group/guest/roles</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="75" UniqueID="{56797F52-A281-4677-99E2-008DB7E16834}" Name="Sheet.75" NameU="Sheet.75">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{CCDDCEA6-725C-413E-A280-44E0D458F309}" Name="Rectangle.15" NameU="Rectangle.15" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecm.ca.corp.thales/livelink/livelink.exe</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>func=ll&amp;objId=5772623&amp;objAction=browse&amp;viewType=1&amp;func=ll&amp;objId=5772623&amp;objAction=browse&amp;viewType=1</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&amp;objId=5772623&amp;objAction=browse&amp;viewType=1&amp;func=ll&amp;objId=5772623&amp;objAction=browse&amp;viewType=1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="76" UniqueID="{BBECBBBD-EF3A-44B1-B870-0C2C9F628EF0}" Name="Sheet.76" NameU="Sheet.76">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{FEFB585A-7349-49BB-BFCC-7A9A50D6C1B7}" Name="Rectangle.16" NameU="Rectangle.16" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>\\spiderman\departments\Hardware_Engineering\Group_-_ Project_Schedules\Data</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://\\spiderman\departments\Hardware_Engineering\Group_-_ Project_Schedules\Data</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="77" UniqueID="{F178BCCA-9062-44C2-B6CC-4DF574D82069}" Name="Sheet.77" NameU="Sheet.77">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{5D7814BE-43D1-463A-8F91-D8B00CCB6370}" Name="Rectangle.17" NameU="Rectangle.17" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>\\spiderman\projects</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://\\spiderman\projects</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="82" UniqueID="{01F6C378-E557-4825-A5DA-2CF1D44C8BED}" Name="Sheet.82" NameU="Sheet.82">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{1495B4EE-1F81-48C8-81E0-CBB4E67D4D87}" Name="Rectangle.23" NameU="Rectangle.23" Master="2">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://intranet.peopleonline.corp.thales/canada_transportation_departments/pub/timesheets.cfm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>slidid=1&amp;idd=106099&amp;intralang=en</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.peopleonline.corp.thales/canada_transportation_departments/pub/timesheets.cfm?slidid=1&amp;idd=106099&amp;intralang=en</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="84" UniqueID="{918CA30A-E133-49C4-BAC7-3AB11FDDD5D2}" Name="Sheet.84" NameU="Sheet.84">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{7515F740-B5BB-42D9-A442-1A55A89F542A}" Name="Rectangle.28" NameU="Rectangle.28" Master="2">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://cdms.tas-can.com/livelink/livelink.exe</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>func=ll&amp;objId=50631&amp;objAction=browse&amp;sort=name</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://cdms.tas-can.com/livelink/livelink.exe?func=ll&amp;objId=50631&amp;objAction=browse&amp;sort=name</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="89" UniqueID="{FF876D1F-E4E8-4BC1-98B6-F07A4328D4E0}" Name="Sheet.89" NameU="Sheet.89">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{56520698-6E80-46DF-9931-9F73174A8843}" Name="Rectangle.7" NameU="Rectangle.7" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecm.ca.corp.thales/livelink/livelink.exe</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>func=ll&amp;objId=754132&amp;objAction=browse&amp;viewType=1</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&amp;objId=754132&amp;objAction=browse&amp;viewType=1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="90" UniqueID="{5762E70B-A29C-426E-8397-84DA555BD7B2}" Name="Sheet.90" NameU="Sheet.90">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{F8128678-AE62-4377-BA51-C129548798E5}" Name="Rectangle.1" NameU="Rectangle.1" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://ecm.ca.corp.thales/livelink/livelink.exe</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>func=ll&amp;objId=1396590&amp;objAction=browse&amp;viewType=1</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecm.ca.corp.thales/livelink/livelink.exe?func=ll&amp;objId=1396590&amp;objAction=browse&amp;viewType=1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="91" UniqueID="{6A11FF9B-6965-46EA-9A0C-5257D309DDE3}" Name="Sheet.91" NameU="Sheet.91">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{A55C6FAE-5811-413A-8961-E9F79F5E9A54}" Name="Rectangle.10" NameU="Rectangle.10" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://servicedesk.resource.ca.corp.thales/HomePage.do</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>SkipNV2Filter=true</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://servicedesk.resource.ca.corp.thales/HomePage.do?SkipNV2Filter=true</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="73" UniqueID="{51207DCC-BFFC-4CC2-BAC7-169EDBF5966E}" Name="Sheet.73" NameU="Sheet.73">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{CC395A85-284E-4B7E-9689-BB1E9295D52A}" Name="Rectangle.27" NameU="Rectangle.27" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://intranet.peopleonline.corp.thales/canada_transportation/pub/orgcharts.cfm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.peopleonline.corp.thales/canada_transportation/pub/orgcharts.cfm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="79" UniqueID="{932E3441-2A52-4920-A922-36AD3731B478}" Name="Sheet.79" NameU="Sheet.79">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{0AF39393-A86D-4E7F-BD9B-0F84FEF80A1F}" Name="Rectangle.20" NameU="Rectangle.20" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://wd3.myworkday.com/thales/d/home.htmld#%253Bthales%253Bhome.htmld</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://wd3.myworkday.com/thales/d/home.htmld#%253Bthales%253Bhome.htmld</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="92" UniqueID="{723697BA-305C-449F-9480-1BCC7535C6D6}" Name="Sheet.92" NameU="Sheet.92">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="93" UniqueID="{97D79D05-F646-43CB-8466-BFD9FBB403EB}" Name="Rectangle.4" NameU="Rectangle.4" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://websso.online.thalesgroup.com/login/websso_login.pl</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>skin=elearning&amp;TYPE=16777344&amp;REALM=-SM-elearningtu%20[15%3a28%3a31%3a140393890976110]&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-b4PH3AsmHWVQO265SOyLD8sVyLYk8Y6f1lYS1zpQkABi%2b0L%2fn5xe2ipzwBW5nFCa</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://websso.online.thalesgroup.com/login/websso_login.pl?skin=elearning&amp;TYPE=16777344&amp;REALM=-SM-elearningtu%20[15%3a28%3a31%3a140393890976110]&amp;SMAUTHREASON=0&amp;METHOD=GET&amp;SMAGENTNAME=-SM-b4PH3AsmHWVQO265SOyLD8sVyLYk8Y6f1lYS1zpQkABi%2b0L%2fn5xe2ipzwBW5nFCa</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="95" UniqueID="{F64545B6-9461-48CF-B587-25542BFB0C90}" Name="Sheet.95" NameU="Sheet.95">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="96" UniqueID="{30CB9372-2A0C-48B7-8CA3-D6491D130AAF}" Name="Rectangle.8" NameU="Rectangle.8" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://coccinelle.corp.thales/DNVRT/Probasis/index.php</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://coccinelle.corp.thales/DNVRT/Probasis/index.php</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="101" UniqueID="{C689178D-19CA-4908-AD19-99FDE02C52D3}" Name="Sheet.101" NameU="Sheet.101">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="102" UniqueID="{AB0391B7-4B33-47BE-9D5E-DB9BBE6E0F07}" Name="Rectangle.21" NameU="Rectangle.21" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://intranet.peopleonline.corp.thales/canada_transportation_tools/pub/doors.cfm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.peopleonline.corp.thales/canada_transportation_tools/pub/doors.cfm</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="104" UniqueID="{AA5DEFB2-5B63-4B13-B88C-310CEF0E465C}" Name="Sheet.104" NameU="Sheet.104">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="105" UniqueID="{FDDA63B4-40F7-48D8-A6A2-18405B1E2516}" Name="Rectangle.36" NameU="Rectangle.36" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>http://intranet.peopleonline.corp.thales/canada_transportation_services/pub/floorplans.cfm</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>slidid=1&amp;idd=106042&amp;intralang=en</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.peopleonline.corp.thales/canada_transportation_services/pub/floorplans.cfm?slidid=1&amp;idd=106042&amp;intralang=en</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="48" UniqueID="{D229F211-DDB0-446A-959D-8BB50685AFB0}" Name="Sheet.48" NameU="Sheet.48">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{CD43F3C1-2D2D-495B-851C-704275F8323D}" Name="Rectangle.8" NameU="Rectangle.8" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://exchanger.intranet.thalesgroup.com/zephyr/WebApp.jsp#tab-MESSAGES</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://exchanger.intranet.thalesgroup.com/zephyr/WebApp.jsp#tab-MESSAGES</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="52" UniqueID="{7283C3F3-9321-4348-9EE0-E55F74F7D321}" Name="Sheet.52" NameU="Sheet.52">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{D5C1CC8A-FE4A-4690-A7A5-90045AF03245}" Name="Rectangle.21" NameU="Rectangle.21" Master="2">
+					<XForm>
+						<PinX Unit="MM">5.262008782270864</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://global.americanexpress.com/myca/logon/canlac/action</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>request_type=LogonHandler&amp;DestPage=https%3A%2F%2Fglobal.americanexpress.com%2Fmyca%2Fintl%2Festatement%2Fcanlac%2Fstatement.do%3Frequest_type%3D%26Face%3Den_CA%26BPIndex%3D0%26sorted_index%3D0&amp;Fac</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://global.americanexpress.com/myca/logon/canlac/action?request_type=LogonHandler&amp;DestPage=https%3A%2F%2Fglobal.americanexpress.com%2Fmyca%2Fintl%2Festatement%2Fcanlac%2Fstatement.do%3Frequest_type%3D%26Face%3Den_CA%26BPIndex%3D0%26sorted_index%3D0&amp;Fac</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="60" UniqueID="{3F5C0C7C-6CEB-4CEF-9343-FBF2CFDBDDC8}" Name="Sheet.60" NameU="Sheet.60">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{22091692-57CD-49B8-A731-1800F1365DCB}" Name="Rectangle.4" NameU="Rectangle.4" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://sante.plexo.ca/HealthPortal/th/MDS/Account/LogOn</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://sante.plexo.ca/HealthPortal/th/MDS/Account/LogOn</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="63" UniqueID="{A111EA6B-2A2A-4D16-8A9D-4499712E4030}" Name="Sheet.63" NameU="Sheet.63">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{ECA87A98-531E-4E25-844E-D6D2892B7455}" Name="Rectangle.36" NameU="Rectangle.36" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>https://www.sunlife.ca/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://www.sunlife.ca/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="111" UniqueID="{F563C4D9-7688-455D-B8FD-18AF3BCB3CB0}" Name="Sheet.111" NameU="Sheet.111">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">3.604180883639545</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="99" UniqueID="{7548B2DE-0047-4724-BA11-4760141FC371}" Name="Rectangle.18" NameU="Rectangle.18" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">3.604180883639545</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>\\spiderman\Projects\Department\Project Review Dashboards</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://\\spiderman\Projects\Department\Project Review Dashboards</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="64" UniqueID="{DD9F3643-0064-4E5E-82B6-A003EB3F6698}" Name="Sheet.64" NameU="Sheet.64">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{4E61968C-24DD-4866-AD63-CCC18427B87A}" Name="Rectangle.6" NameU="Rectangle.6" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Select your SDS Department</HLURL:Description>
+										<HLURL:Address>https://e2-jira.resource.ca.corp.thales:8443/secure/BrowseProjects.jspa</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>selectedCategory=10500&amp;selectedProjectType=all</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://e2-jira.resource.ca.corp.thales:8443/secure/BrowseProjects.jspa?selectedCategory=10500&amp;selectedProjectType=all</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="122" UniqueID="{F27B8E34-B6E0-4654-97B3-5981398A4B4D}" Name="Sheet.122" NameU="Sheet.122">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Orbis Login</HLURL:Description>
+										<HLURL:Address>https://sdsthales.com/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://sdsthales.com/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="22" UniqueID="{BD86D25E-19C0-40E5-B7EA-F7426EC7EEEA}" Name="Rectangle.22" NameU="Rectangle.22" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.056953100671741</PinX>
+						<PinY Unit="MM">2.285283245844270</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="121" UniqueID="{983B0F01-7606-44E1-B433-5A3A696F918D}" Name="Sheet.121" NameU="Sheet.121">
+					<Text>World
+Wide
+Resources</Text>
+					<XForm>
+						<PinX Unit="MM">9.548480609680139</PinX>
+						<PinY Unit="MM">2.047315617261293</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="136" UniqueID="{8FBD8EC5-0CC9-46AB-9120-CE53DB38C5EF}" Name="Sheet.136" NameU="Sheet.136">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>If you see "Access denied" select "Back to Homepage".  It will work!</HLURL:Description>
+										<HLURL:Address>https://lion.online.corp.thales/collections/1</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://lion.online.corp.thales/collections/1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="2" UniqueID="{638DC122-0EAA-45B1-BDA4-67F6ABE1B2FD}" Name="Rectangle.2" NameU="Rectangle.2" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="138" UniqueID="{1B1F3493-2F69-4863-B645-C0DDEB02FA85}" Name="Sheet.138" NameU="Sheet.138">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="142" UniqueID="{59AE85C6-5CD8-4AE3-A3B7-ADC84D5DB203}" Name="Sheet.142" NameU="Sheet.142">
+					<XForm>
+						<PinX Unit="MM">12.851897419072619</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Requires Palma login</HLURL:Description>
+										<HLURL:Address>https://sharedpalma.corp.thales:1443/Windchill/app/</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://sharedpalma.corp.thales:1443/Windchill/app/</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="13" UniqueID="{B22C932A-14F3-408B-8DD5-610D2375520D}" Name="Rectangle.13" NameU="Rectangle.13" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.851897419072618</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="140" UniqueID="{FAB8D8E4-E22B-4269-8A9A-0DFEEB52D7AB}" Name="Sheet.140" NameU="Sheet.140">
+					<Text>Shared</Text>
+					<XForm>
+						<PinX Unit="MM">13.146574534380230</PinX>
+						<PinY Unit="MM">6.496062992125983</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="144" UniqueID="{023CAAE6-187C-43BF-BB66-F3DDD5C9120C}" Name="Sheet.144" NameU="Sheet.144">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>DPM Folder on Spiderman</HLURL:Description>
+										<HLURL:Address>\\Spiderman\departments\SDS\04.DSMO\Operations - Project Files\Dashboards\</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://\\Spiderman\departments\SDS\04.DSMO\Operations - Project Files\Dashboards\</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="35" UniqueID="{7F8713DE-CD22-42C3-8F20-C0302C13D8DF}" Name="Rectangle.35" NameU="Rectangle.35" Master="2">
+					<XForm>
+						<PinX Unit="MM">1.467064463869986</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="129" UniqueID="{79F8083C-75C5-40AC-A4CE-3FD1642893E8}" Name="Sheet.129" NameU="Sheet.129">
+					<Text>DPM
+DASHBOARDS</Text>
+					<XForm>
+						<PinX Unit="MM">1.905669795239210</PinX>
+						<PinY Unit="MM">3.619078537202461</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="146" UniqueID="{7F9418E5-D510-4813-A382-35B365096766}" Name="Sheet.146" NameU="Sheet.146">
+					<XForm>
+						<PinX Unit="MM">5.262008782270863</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Thales Practices</HLURL:Description>
+										<HLURL:Address>http://intranet.ecom.corp.thales/www/thales_engineering/MLS/practices.html</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://intranet.ecom.corp.thales/www/thales_engineering/MLS/practices.html</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="5" UniqueID="{6F26605F-E5D1-4A95-956A-0F4D6B842F27}" Name="Rectangle.5" NameU="Rectangle.5" Master="2">
+					<XForm>
+						<PinX Unit="MM">5.262008782270863</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="147" UniqueID="{1C51BFB2-D4B0-4AC3-BD5E-1857AC6B56D2}" Name="Sheet.147" NameU="Sheet.147">
+					<XForm>
+						<PinX Unit="MM">3.364536623070424</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{1C8CD593-4036-4C9E-AF73-E7180F07501A}" Name="Rectangle.3" NameU="Rectangle.3" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.364536623070424</PinX>
+						<PinY Unit="MM">6.241976159230097</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Select URS-SDS tab</HLURL:Description>
+										<HLURL:Address>http://chorus2.corp.thales/group/guest/my-favorites#</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>http://chorus2.corp.thales/group/guest/my-favorites#</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="148" UniqueID="{3D8BC250-8263-4263-ADF6-14C74B4EE577}" Name="Sheet.148" NameU="Sheet.148">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{053996A6-F33A-4B18-8B57-C93DA4897CF4}" Name="Rectangle.11" NameU="Rectangle.11" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">0.966385608048994</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>Travel &amp; Living Expenses</HLURL:Description>
+										<HLURL:Address>https://www.concursolutions.com/home.asp</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://www.concursolutions.com/home.asp</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="149" UniqueID="{10B8B21F-8E0C-4300-9F4B-81B25132B833}" Name="Sheet.149" NameU="Sheet.149">
+					<XForm>
+						<PinX Unit="MM">10.954425259872179</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{CE0313EC-BEC7-4262-9810-FDAF9EA7D77F}" Name="Rectangle.19" NameU="Rectangle.19" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.954425259872178</PinX>
+						<PinY Unit="MM">4.923078521434821</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>SDS TOL</HLURL:Description>
+										<HLURL:Address>https://ecm.corp.thales/Livelink/livelink.exe</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo>func=ll&amp;objId=103906389&amp;objAction=browse&amp;sort=name</HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://ecm.corp.thales/Livelink/livelink.exe?func=ll&amp;objId=103906389&amp;objAction=browse&amp;sort=name</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="151" UniqueID="{2DF64FBE-6F4E-4296-A3C1-D45241E476C7}" Name="Sheet.151" NameU="Sheet.151">
+					<XForm>
+						<PinX Unit="MM">7.014090343970161</PinX>
+						<PinY Unit="MM">4.247824285122254</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="153" UniqueID="{504BFA63-B8F4-4335-91B5-689005423072}" Name="Sheet.153" NameU="Sheet.153">
+					<XForm>
+						<PinX Unit="MM">7.014090343970161</PinX>
+						<PinY Unit="MM">1.621121081246294</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="156" UniqueID="{A66FF48D-6D5C-415E-AB0E-B7D389EE2617}" Name="Sheet.156" NameU="Sheet.156">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>The Main tool</HLURL:Description>
+										<HLURL:Address>https://iboost.digit-ts.io/login</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>https://iboost.digit-ts.io/login</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="24" UniqueID="{7A9D21D6-C299-4DD1-A78C-F0F41B3DF337}" Name="Rectangle.24" NameU="Rectangle.24" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.364536623070425</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="157" UniqueID="{1849DD61-7742-4B08-B793-DA3891E0CE62}" Name="Sheet.157" NameU="Sheet.157">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description>PI's on Spiderman</HLURL:Description>
+										<HLURL:Address>\\Spiderman\departments\SDS\01.Admin\2. PPT - Performance Initiatives</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>file://\\Spiderman\departments\SDS\01.Admin\2. PPT - Performance Initiatives</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="18" UniqueID="{F09EB8F1-BA5C-49C1-BD33-48F9CFB88205}" Name="Rectangle.18" NameU="Rectangle.18" Master="2">
+					<XForm>
+						<PinX Unit="MM">7.159480941471304</PinX>
+						<PinY Unit="MM">3.604180883639546</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="132" UniqueID="{35F7A331-10FB-4A24-A9DD-837AF7D52474}" Name="Sheet.132" NameU="Sheet.132">
+					<Text>Performance 
+
+
+
+Initiatives</Text>
+					<XForm>
+						<PinX Unit="MM">7.146892164168033</PinX>
+						<PinY Unit="MM">3.612521930391878</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
